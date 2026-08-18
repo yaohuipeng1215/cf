@@ -4,7 +4,6 @@
 ;DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,bgm.tv
 
 # 域名关键字匹配
 ;DOMAIN-KEYWORD,1e100

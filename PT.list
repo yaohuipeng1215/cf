@@ -1,6 +1,6 @@
 # 内容：PT站点直连
 # 域名关键字匹配
-DOMAIN-KEYWORD,chdbits
+# DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,m-team
 # 域名后缀匹配

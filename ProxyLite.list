@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,良心云.com
+DOMAIN-SUFFIX,chdbits.co
 
 # 域名关键字匹配
 ;DOMAIN-KEYWORD,1e100
